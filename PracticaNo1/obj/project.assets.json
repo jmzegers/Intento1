@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/josemiguelzegers/Projects/PracticaNo1/PracticaNo1/PracticaNo1.csproj",
+      "projectUniqueName": "/Users/josemiguelzegers/Desktop/PracticaNo1/PracticaNo1.csproj",
       "projectName": "PracticaNo1",
-      "projectPath": "/Users/josemiguelzegers/Projects/PracticaNo1/PracticaNo1/PracticaNo1.csproj",
+      "projectPath": "/Users/josemiguelzegers/Desktop/PracticaNo1/PracticaNo1.csproj",
       "packagesPath": "/Users/josemiguelzegers/.nuget/packages/",
-      "outputPath": "/Users/josemiguelzegers/Projects/PracticaNo1/PracticaNo1/obj/",
+      "outputPath": "/Users/josemiguelzegers/Desktop/PracticaNo1/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
