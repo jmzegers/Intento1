@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\Entrega3N3\Entrega3N3\bin\Debug\Entrega3N3.exe.config
+\\Mac\Home\Desktop\Entrega3N3\Entrega3N3\bin\Debug\Entrega3N3.exe
+\\Mac\Home\Desktop\Entrega3N3\Entrega3N3\bin\Debug\Entrega3N3.pdb
+\\Mac\Home\Desktop\Entrega3N3\Entrega3N3\obj\Debug\Entrega3N3.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Entrega3N3\Entrega3N3\obj\Debug\Entrega3N3.Properties.Resources.resources
+\\Mac\Home\Desktop\Entrega3N3\Entrega3N3\obj\Debug\Entrega3N3.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Entrega3N3\Entrega3N3\obj\Debug\Entrega3N3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Entrega3N3\Entrega3N3\obj\Debug\Entrega3N3.exe
+\\Mac\Home\Desktop\Entrega3N3\Entrega3N3\obj\Debug\Entrega3N3.pdb
